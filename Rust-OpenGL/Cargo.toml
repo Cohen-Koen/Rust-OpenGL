@@ -9,6 +9,5 @@ edition = "2021"
 bytemuck = "1"
 ogl33 = { version = "0.2.0", features = ["debug_error_checks"]}
 
-[dev-dependencies]
 beryllium = "0.2.0-alpha.4"
 imagine = "0.0.5"
